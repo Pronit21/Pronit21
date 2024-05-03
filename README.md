@@ -10,5 +10,5 @@
 
 
 ## #30NitesOfCode:
-  [Check out my progress!](https://www.codedex.io/@AzureDragon65/30-nites-of-code)  
-  ![@AzureDragon65 #30NitesOfCode](https://www.codedex.io/api/petStatus?user=AzureDragon65)
+  [Check out my progress!](https://www.codedex.io/@AzureDragon/30-nites-of-code)  
+  ![@AzureDragon #30NitesOfCode](https://www.codedex.io/api/petStatus?user=AzureDragon)
