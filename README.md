@@ -10,6 +10,7 @@
 
 
 ## #30NitesOfCode:
+My Codedex Pet
   [Check out my progress!](https://www.codedex.io/@AzureDragon/30-nites-of-code)  
   ![@AzureDragon #30NitesOfCode](https://www.codedex.io/api/petStatus?user=AzureDragon)
 
