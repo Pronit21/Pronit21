@@ -12,7 +12,7 @@ Hey there! 👋 I'm Pronit!!
 
 🎾 Tennis enthusiast, gym-goer 💪, fiction book reader 📚, and coding aficionado 👩‍💻.
 
-🌃 Prefers Light Mode, night owl, and a tad of workaholic.
+🌃 Prefer Light Mode, night owl, and a tad of workaholic.
 
 📱 Connect with me on Twitter or check out my GitHub profile!
 
