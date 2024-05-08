@@ -1,18 +1,16 @@
 Hey there! 👋 I'm Pronit!!
 
-🌟 Fluent in English, Hindi, Oriya, and Bengali. Beginner in French.
-
 💻 Proficient in Java ☕, C, Python, HTML/CSS, and JavaScript 🔨.
 
 💾 Experienced with MySQL and MongoDB databases.
 
 🛠️ Worked with Express.js, React.js ⚛️, and Flask frameworks.
 
-📚 Completed courses in DSA, Network Security, DBMS, and Compiler Construction.
-
 🎾 Tennis enthusiast, gym-goer 💪, fiction book reader 📚, and coding aficionado 👩‍💻.
 
 🌃 Prefer Light Mode, night owl, and a tad of workaholic.
+
+🌟 Fluent in English, Hindi, Oriya, and Bengali. Beginner in French.
 
 📱 Connect with me on Twitter or check out my GitHub profile!
 
