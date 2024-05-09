@@ -1,4 +1,6 @@
+<p align="center">
 [# Hey there! 👋 I'm Pronit!!](https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&text=Hello!%20I'm%20Pronit&reversal=false&textBg=false&fontSize=60&animation=fadeIn)
+</p>
 
 ```yaml
 name: Pronit Parida
@@ -46,6 +48,8 @@ hobbies: ["Tennis 🎾", "Gym 💪", "Table Tennis", "Movies", "Fiction"]
 
   <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=Pronit21&label=Profile%20Views&color=0&icon=6&pretty=false" />
+  </a>
+<p align="center">
+[https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=false&textBg=false&fontSize=60&animation=fadeIn&section=footer](https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=false&textBg=false&fontSize=60&animation=fadeIn&section=footer)
+</p>
 
-https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=false&textBg=false&fontSize=60&animation=fadeIn&section=footer
-</a>
