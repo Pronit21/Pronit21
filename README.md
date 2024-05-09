@@ -1,19 +1,11 @@
 Hey there! 👋 I'm Pronit!!
 
 💻 Proficient in Java ☕, C, Python, HTML/CSS, and JavaScript 🔨.
-
 💾 Experienced with MySQL and MongoDB databases.
-
 🛠️ Worked with Express.js, React.js ⚛️, and Flask frameworks.
-
 🎾 Tennis enthusiast, gym-goer 💪, fiction book reader 📚, and coding aficionado 👩‍💻.
-
 🌃 Prefer Light Mode, night owl, and a tad of workaholic.
-
-🌟 Fluent in English, Hindi, Oriya, and Bengali. Beginner in French.
-
-📱 Connect with me on Twitter or check out my GitHub profile!
-
+🤖 Currently diving deeper into Next JS and OpenCV
 
 ## #30NitesOfCode:
 
