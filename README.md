@@ -1,7 +1,8 @@
 # Hey there! 👋 I'm Pronit!!
 
-<code>
-name: Piyush Malhotra
+<html>
+      <head>
+        name: Piyush Malhotra
 located_in: Calgary, Alberta
 current_job: Full Stack Developer
 education:
@@ -33,7 +34,9 @@ technical_background:
 currently_learning: ["Docker, Kubernetes, and React Native"]
 2024 Goals: ["Create 25+ Projects and learn at least 5-10 new Technologies."]
 hobbies: ["Gaming", "Cinema", "Skateboarding", "Art", "Comedy"]
-</code>
+      </head>
+    </html>
+
 
 <p>💻 Proficient in Java ☕, C, Python, HTML/CSS, and JavaScript 🔨.<br>
 💾 Experienced with MySQL and MongoDB databases.<br>
