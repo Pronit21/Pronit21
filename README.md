@@ -1,4 +1,4 @@
-# Hey there! 👋 I'm Pronit!!
+[# Hey there! 👋 I'm Pronit!!](https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&text=Hello!%20I'm%20Pronit&reversal=false&textBg=false&fontSize=60&animation=fadeIn)
 
 ```yaml
 name: Pronit Parida
@@ -38,7 +38,6 @@ hobbies: ["Tennis 🎾", "Gym 💪", "Table Tennis", "Movies", "Fiction"]
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" alt="mongodb" width="45" height="45" />
 </p>
 
-![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
 
 ## #30NitesOfCode:
 
@@ -47,4 +46,6 @@ hobbies: ["Tennis 🎾", "Gym 💪", "Table Tennis", "Movies", "Fiction"]
 
   <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=Pronit21&label=Profile%20Views&color=0&icon=6&pretty=false" />
+
+https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=false&textBg=false&fontSize=60&animation=fadeIn&section=footer
 </a>
