@@ -1,5 +1,5 @@
 <p align="center">
-[# Hey there! 👋 I'm Pronit!!](https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&text=Hello!%20I'm%20Pronit&reversal=false&textBg=false&fontSize=60&animation=fadeIn)
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&text=Hello!%20I'm%20Pronit&reversal=false&textBg=false&fontSize=60&animation=fadeIn" />
 </p>
 
 ```yaml
