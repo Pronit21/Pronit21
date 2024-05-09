@@ -5,10 +5,7 @@
 ```yaml
 name: Pronit Parida
 located_at: Pune, Maharashtra
-education:
-  [
-    "Bachelor's in Computer Science and Engineering",
-  ]
+education: Bachelor's in Computer Science and Engineering
 college: Symbiosis Institute of Technology
 
 fields_of_interests:
