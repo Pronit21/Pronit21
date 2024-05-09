@@ -38,6 +38,8 @@ hobbies: ["Tennis 🎾", "Gym 💪", "Table Tennis", "Movies", "Fiction"]
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" alt="mongodb" width="45" height="45" />
 </p>
 
+![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
+
 ## #30NitesOfCode:
 
   [Check out my progress!](https://www.codedex.io/@AzureDragon/30-nites-of-code)  
