@@ -1,11 +1,11 @@
-Hey there! 👋 I'm Pronit!!
+# Hey there! 👋 I'm Pronit!!
 
-💻 Proficient in Java ☕, C, Python, HTML/CSS, and JavaScript 🔨.
-💾 Experienced with MySQL and MongoDB databases.
-🛠️ Worked with Express.js, React.js ⚛️, and Flask frameworks.
-🎾 Tennis enthusiast, gym-goer 💪, fiction book reader 📚, and coding aficionado 👩‍💻.
-🌃 Prefer Light Mode, night owl, and a tad of workaholic.
-🤖 Currently diving deeper into Next JS and OpenCV
+<p>💻 Proficient in Java ☕, C, Python, HTML/CSS, and JavaScript 🔨.<br>
+💾 Experienced with MySQL and MongoDB databases.<br>
+🛠️ Worked with Express.js, React.js ⚛️, and Flask frameworks.<br>
+🎾 Tennis enthusiast, gym-goer 💪, fiction book reader 📚, and coding aficionado 👩‍💻.<br>
+🌃 Prefer Light Mode, night owl, and a tad of workaholic.<br>
+🤖 Currently diving deeper into Next JS and OpenCV</p>
 
 ## #30NitesOfCode:
 
