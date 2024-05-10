@@ -17,7 +17,7 @@ fields_of_interests:
   
 currently_learning: ["Next JS, Typescript, and OpenCV"]
 2024 Goals: ["Create 25+ Projects and learn at least 5 new Technologies."]
-hobbies: ["Tennis 🎾", "Gym 💪", "Table Tennis", "Movies", "Fiction"]
+hobbies: ["Tennis", "Gym", "Table Tennis", "Movies", "Fiction"]
 ```
 <h2> 🚀 &nbsp;Tools and technologies I have used and learned</h2>
 <p align="left">
