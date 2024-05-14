@@ -15,7 +15,7 @@ fields_of_interests:
     "DevOps",
   ]
   
-currently_learning: ["Next JS, Typescript, and OpenCV"]
+currently_learning: ["Next JS", "Typescript", "OpenCV"]
 2024 Goals: ["Create 25+ Projects and learn at least 5 new Technologies."]
 hobbies: ["Tennis", "Gym", "Table Tennis", "Movies", "Fiction"]
 ```
